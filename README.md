@@ -1,8 +1,7 @@
-### Hi there 👋
+### 👋Hi!
 
-I'm a Full Stack Developer working on apps made with Node & Vuejs.
+🤟 I'm a Full-Stack Developer with 5 years of experience building applications using Nodejs & Laravel as backend stack & Vue/React/VanillaJS on frontend side.
 
-- 🔭 I’m currently working on a resume builder app that is targeted at lawyers.
-- 🌱 I’m currently learning React & React Native
-- 📫 How to reach me: visit www.soumilroy.com or mail me at hello@soumilroy.com
+😍 I'm currently learning and implementing React Native and Typescript for current projects.
 
+Connect with me on [LinkedIn](https://www.linkedin.com/in/soumilroy/) or visit [my personal site](https://soumilroy.com)

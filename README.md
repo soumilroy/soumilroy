@@ -1,9 +1,16 @@
-### Hi! 👋
 
-I’m a product designer & developer. I have been an integral part of 3 startup companies, where I have designed, authored, and promoted my software.
+# Hi! I'm Soumil Roy
+### currently working as a **Frontend Developer** at **SKOOT UK**
 
-🤟 Full-Stack Developer with over 7 years of experience <br />
-🤟 Nodejs, React & VanillaJS (with TypeScript) <br />
-🤟 Adobe XD & Figma Designer <br />
+- :speech_balloon: &nbsp;I'm passionate about **UI/UX** and **JavaScript**
+- :computer: &nbsp;Connect with me on **[LinkedIn]**/ **[Twitter]**/ **[Instagram]**
 
-Connect with me on [LinkedIn](https://www.linkedin.com/in/soumilroy/) or visit [my personal site](https://soumilroy.com)
+## Stats
+<p align="center">
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=soumilroy&theme=dark&hide_border=true&include_all_commits=true" alt="soumilroy" /> &nbsp; <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=soumilroy&count_private=true&show_icons=true&theme=dark&title_color=ff8000&text_color=ffffff&locale=en&layout=compact&hide_border=true" alt="soumilroy" />  
+</p>
+
+[linkedin]: https://www.linkedin.com/in/soumilroy "LinkedIn"
+[twitter]: https://twitter.com/soumilroy "Twitter"
+[instagram]: https://www.instagram.com/soumilroy/ "Instagram"
+[blog]: http://soumilroy.com/ "Blog"

@@ -2,8 +2,8 @@
 # Hi! I'm Soumil Roy
 ### I'm a **Frontend Developer** at **SKOOT UK**
 
-- :speech_balloon: &nbsp;I'm passionate about **UI/UX** and **JavaScript**
-- :computer: &nbsp;Connect with me on **[LinkedIn]**/ **[Twitter]**/ **[Instagram]**
+- I'm passionate about **UI/UX** and **JavaScript**
+- Connect with me on **[LinkedIn]**/ **[Twitter]**/ **[Instagram]**
 
 ## Stats
 <p align="center">

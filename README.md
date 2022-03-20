@@ -1,6 +1,6 @@
 
 # Hi! I'm Soumil Roy
-### currently working as a **Frontend Developer** at **SKOOT UK**
+### I'm a **Frontend Developer** at **SKOOT UK**
 
 - :speech_balloon: &nbsp;I'm passionate about **UI/UX** and **JavaScript**
 - :computer: &nbsp;Connect with me on **[LinkedIn]**/ **[Twitter]**/ **[Instagram]**

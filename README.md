@@ -14,6 +14,6 @@
 </p>
 
 [linkedin]: https://www.linkedin.com/in/soumilroy "LinkedIn"
-[twitter]: https://twitter.com/soumilroy "Twitter"
+[twitter]: https://twitter.com/soumil_roy "Twitter"
 [instagram]: https://www.instagram.com/soumilroy/ "Instagram"
 [blog]: http://soumilroy.com/ "Blog"

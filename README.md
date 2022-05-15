@@ -1,6 +1,5 @@
 
 # Hi! I'm Soumil Roy
-### I'm a **Frontend Developer** at **SKOOT UK**
 
 - I'm passionate about **UI/UX** and **JavaScript** :star_struck:
 - Favorite stack: TypeScript, React, Vue, Vanilla JavaScript, and Nodejs :nerd_face:

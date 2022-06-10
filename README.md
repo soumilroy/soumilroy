@@ -4,7 +4,7 @@
 - I'm passionate about **UI/UX** and **JavaScript** :star_struck:
 - Favorite stack: TypeScript, React, Vue, Vanilla JavaScript, and Nodejs :nerd_face:
 - Design tools: Adobe XD & Figma :sunglasses:
-- Currently working with: Nuxt, GraphQL, Hugo (SSG) :surfing_man:
+- Currently working with: React, TypeScript, GraphQL and Python :surfing_man:
 - Connect with me on **[LinkedIn]**/ **[Twitter]**/ **[Instagram]** :wave:
 
 ## Stats

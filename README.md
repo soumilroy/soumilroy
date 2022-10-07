@@ -8,7 +8,7 @@
 - Connect with me on **[LinkedIn]**/ **[Twitter]**/ **[Instagram]** :wave:
 
 ## Stats
-<p align="center">
+<p>
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=soumilroy&theme=dark&hide_border=true&include_all_commits=true" alt="soumilroy" />
 </p>
 

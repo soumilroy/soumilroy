@@ -5,7 +5,7 @@
 - Favorite stack: TypeScript, React, Vue, Vanilla JavaScript, and Nodejs :nerd_face:
 - Design tools: Adobe XD & Figma :sunglasses:
 - Currently working with: React, TypeScript, GraphQL and Python :surfing_man:
-- Connect with me on **[LinkedIn]**/ **[Twitter]**/ **[Instagram]** :wave:
+- Connect with me on **[LinkedIn]**/ **[Instagram]** :wave:
 
 ## Stats
 <p>
@@ -13,6 +13,5 @@
 </p>
 
 [linkedin]: https://www.linkedin.com/in/soumilroy "LinkedIn"
-[twitter]: https://twitter.com/soumil_roy "Twitter"
 [instagram]: https://www.instagram.com/soumilroy/ "Instagram"
 [blog]: http://soumilroy.com/ "Blog"

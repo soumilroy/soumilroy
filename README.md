@@ -1,7 +1,7 @@
 
 # Hi! I'm Soumil Roy
 
-- I'm passionate about **UI/UX** and **JavaScript** :star_struck:
+- I'm passionate about **JavaScript** and **UI/UX** :star_struck:
 - Favorite stack: TypeScript, React, Vue, Vanilla JavaScript, and Nodejs :nerd_face:
 - Design tools: Adobe XD & Figma :sunglasses:
 - Currently working with: React, TypeScript, GraphQL and Python :surfing_man:

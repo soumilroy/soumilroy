@@ -5,10 +5,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Hello! As a dedicated Frontend Engineer with over 8+ years of experience, I excel in crafting and developing innovative web applications. My diverse skill set bridges the gap between technical expertise and creative design, resulting in exceptional user experiences.
 
-🎯 Presently Mastering:
+🎯 Presently Mastering: <br />
 React, TypeScript, and Python to stay current and competitive in the rapidly evolving tech landscape.
 
-🔧 Core Technical Proficiencies:
+🔧 Core Technical Proficiencies: <br />
 🌐 Frontend: HTML, CSS (7+ years) | React (2+ years) | Next.js (1+ years) | TypeScript/Javascript (4+ years)
 🔩 Backend: Fastify (2 years) | Express (1+ years) | Nest.js (2 years) | Postgres | MySQL | MongoDB
 🎨 Design Tools: Adobe XD (2 yrs) | Figma (1 yr)

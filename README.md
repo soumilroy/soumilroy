@@ -1,13 +1,21 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Soumil Roy
 ==================================================================================================================================
 
-Frontend Engineer
------------------
+✨ Frontend Engineer | 8+ Yrs | React, TypeScript, Node, and Python | Web App Design & Development | Seeking New Challenges ✨
 
-Passionate about JavaScript and UI/UX ecosystems 🤩
+Hello! As a dedicated Frontend Engineer with over 8+ years of experience, I excel in crafting and developing innovative web applications. My diverse skill set bridges the gap between technical expertise and creative design, resulting in exceptional user experiences.
 
-* ✉️  You can contact me at [soumilroy@pm.me](mailto:soumilroy@pm.me)
-* 🧠  I'm learning Next.js & GraphQL
+🎯 Presently Mastering:
+React, TypeScript, and Python to stay current and competitive in the rapidly evolving tech landscape.
+
+🔧 Core Technical Proficiencies:
+🌐 Frontend: HTML, CSS (7+ years) | React (2+ years) | Next.js (1+ years) | TypeScript/Javascript (4+ years)
+🔩 Backend: Fastify (2 years) | Express (1+ years) | Nest.js (2 years) | Postgres | MySQL | MongoDB
+🎨 Design Tools: Adobe XD (2 yrs) | Figma (1 yr)
+
+🧠 Currently learning: Python; planning to learn Angular or Svelte in upcoming months
+
+As a lifelong learner, I am eager to contribute to amazing projects and collaborate with talented professionals. If you're on the lookout for a dedicated Frontend Engineer to strengthen your team or have an intriguing project in mind, feel free to reach out. 
 
 ### Skills
 

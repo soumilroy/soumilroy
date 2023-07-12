@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Soumil Roy
 ==================================================================================================================================
 
-✨ Frontend Engineer | 8+ Yrs | React, TypeScript, Node, and Python | Seeking New Challenges ✨
+✨ Frontend Engineer | 6+ Yrs | React, TypeScript, Node, and Python | Seeking New Challenges ✨
 
 Hello! As a dedicated Frontend Engineer with over 8+ years of experience, I excel in crafting and developing innovative web applications. My diverse skill set bridges the gap between technical expertise and creative design, resulting in exceptional user experiences.
 

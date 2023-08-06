@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ✨ Frontend Engineer, sometimes Full-stackish ✨
 
-🧠 Currently pursuring my Bachelor's degree from Manipal University
+🧠 Currently pursuring my Bachelor's degree
 
 🔧 Core Technical Proficiencies: C, C++, HTML, CSS, Javascript, Python, Adobe XD, Figma
 

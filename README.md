@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Soumil Roy
 ==================================================================================================================================
 
-🎨 Frontend stack: React, Next.js, TailwindCSS, Styled-components, React Query, TypeScript, Cypress, Storybook
+🎨 Frontend stack: React, Next.js, TailwindCSS, Styled-components, React Query, TypeScript, Cypress, Storybook <br />
 🛠 Backend stack: Node, Python, Docker, Github Actions, Java (new)
 
 ✨ As a full-stack developer, I am passionate about creating robust, scalable, and user-friendly web applications using cutting-edge technologies.

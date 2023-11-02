@@ -6,8 +6,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ✨ As a full-stack developer, I am passionate about creating robust, scalable, and user-friendly web applications using cutting-edge technologies.
 
-✨ Currently, I am pursuing my bachelor's degree from Manipal University Jaipur, where I am learning the fundamentals of software engineering, data structures, algorithms, and databases. 
-
 ✨ I am also mastering React, TypeScript, and Java to stay current and competitive in the rapidly evolving tech landscape. I am seeking new challenges and opportunities to apply my skills and knowledge, and to collaborate with like-minded professionals who share my vision and values.
 
 ## Stats

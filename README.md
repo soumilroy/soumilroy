@@ -1,4 +1,4 @@
-Full Stack Engineer | React, Node and Python | Building Gen AI Apps
+Full Stack Engineer | React Node Python | Generative AI
 ==================================================================================================================================
 
 🎨 Frontend stack: React, Next.js, TailwindCSS, Styled-components, React Query, TypeScript, Cypress, Storybook <br />
@@ -6,7 +6,7 @@ Full Stack Engineer | React, Node and Python | Building Gen AI Apps
 
 ✨ As a full-stack developer, I am passionate about creating robust, scalable, and user-friendly web applications using cutting-edge technologies.
 
-✨ I am also mastering React, TypeScript, and Java to stay current and competitive in the rapidly evolving tech landscape. I am seeking new challenges and opportunities to apply my skills and knowledge, and to collaborate with like-minded professionals who share my vision and values.
+✨ I'm currently exploring Generative AI with LangChain
 
 ## Stats
 

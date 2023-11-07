@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Soumil Roy
+Full Stack Engineer | React, Node and Python | Building Gen AI Apps
 ==================================================================================================================================
 
 🎨 Frontend stack: React, Next.js, TailwindCSS, Styled-components, React Query, TypeScript, Cypress, Storybook <br />

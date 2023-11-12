@@ -6,7 +6,7 @@ Full Stack Engineer | React Node Python | Generative AI
 
 ✨ As a full-stack developer, I am passionate about creating robust, scalable, and user-friendly web applications using cutting-edge technologies.
 
-✨ I'm currently exploring Generative AI with LangChain
+✨ Currently exploring Generative AI with LangChain
 
 ## Stats
 

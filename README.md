@@ -1,12 +1,12 @@
 Full Stack Engineer | React Node Python | Generative AI
 ==================================================================================================================================
 
-🎨 Frontend stack: React, Next.js, TailwindCSS, Styled-components, React Query, TypeScript, Cypress, Storybook <br />
-🛠 Backend stack: Node, Python, Docker, Github Actions, Java (new)
-
-✨ As a full-stack developer, I am passionate about creating robust, scalable, and user-friendly web applications using cutting-edge technologies.
+✨ As a full-stack engineer, I am passionate about creating robust, scalable, and user-friendly web applications using cutting-edge technologies.
 
 ✨ Currently exploring Generative AI with LangChain
+
+🎨 Frontend stack: React, Next.js, TailwindCSS, Styled-components, React Query, TypeScript, Cypress, Storybook <br />
+🛠 Backend stack: Node, Python, Docker, Github Actions, Java (new)
 
 ## Stats
 

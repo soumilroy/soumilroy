@@ -8,6 +8,8 @@ Full Stack Engineer | React Node Python | Generative AI
 🎨 Frontend stack: React, Next.js, TailwindCSS, Styled-components, React Query, TypeScript, Cypress, Storybook <br />
 🛠 Backend stack: Node, Python, Docker, Github Actions, Java (new)
 
+[![Skillsets](https://skillicons.dev/icons?i=js,html,css,js,ts,c,cpp,react,nextjs,remix,tailwind,py,postgres,nuxtjs,docker,graphql,mysql,svelte,nestjs,flask,aws,java)](https://skillicons.dev)
+
 ## Stats
 
 <table>

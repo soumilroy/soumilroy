@@ -3,7 +3,7 @@ Frontend Engineer | React Node Python | Generative AI
 
 ✨ As a Sr. Frontend Engineer, I am passionate about creating robust, scalable, and user-friendly web applications using cutting-edge technologies.
 
-✨ Currently exploring Generative AI
+✨ Currently exploring Generative AI and LLMs
 
 🎨 Frontend stack: React, Next.js, TailwindCSS, Styled-components, React Query, TypeScript, Cypress, Storybook <br />
 🛠 Backend stack: Node, Python, Docker, Github Actions, Java (new)

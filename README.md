@@ -6,7 +6,7 @@ Frontend Engineer | React Node Python | Generative AI
 ✨ Currently exploring Generative AI and LLMs
 
 🎨 Frontend stack: React, Next.js, TailwindCSS, Styled-components, React Query, TypeScript, Cypress, Storybook <br />
-🛠 Backend stack: Node, Python, Docker, Github Actions, Java (new)
+🛠 Backend stack: Node, Python(new)
 
 [![Skillsets](https://skillicons.dev/icons?i=js,html,css,ts,react,nextjs,tailwind,py,nuxtjs,docker,mysql,nestjs,flask,aws,java)](https://skillicons.dev)
 
